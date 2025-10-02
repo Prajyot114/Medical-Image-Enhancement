@@ -1,15 +1,15 @@
 # DignoAid
-# 🩻 Enhancing Medical Image Quality using Deep Learning
+#  Enhancing Medical Image Quality using Deep Learning
 
 
 
-DignoAid is a deep learning–based medical image enhancement system that aims to improve diagnostic accuracy of X-ray images. The system uses SRCNN and VDSR models to enhance low-resolution and noisy images, providing clearer visuals that can assist in the early detection of diseases such as Tuberculosis, Pneumonia, and Lung Cancer.
+## DignoAid is a deep learning–based medical image enhancement system that aims to improve diagnostic accuracy of X-ray images. The system uses SRCNN and VDSR models to enhance low-resolution and noisy images, providing clearer visuals that can assist in the early detection of diseases such as Tuberculosis, Pneumonia, and Lung Cancer.
 
 
 
 
 
-## 🛠️ Requirements
+##  Requirements
 
 Python 3.8+
 
@@ -23,7 +23,7 @@ PSNR & SSIM (evaluation metrics)
 
 
 
-## 👨‍💻 Team Members:
+##  Team Members:
 
 * [Prajyot Patil](https://github.com/Prajyot114)
 
@@ -32,7 +32,7 @@ PSNR & SSIM (evaluation metrics)
 * [Komal Satam](https://github.com/KomalSatam)
 
 
-## ✅ What we did until now
+##  What we did until now
 
 Collected and preprocessed Kaggle Chest X-ray Pneumonia Dataset (~3000 images).
 
@@ -45,7 +45,7 @@ Implemented evaluation metrics PSNR and SSIM to measure image enhancement qualit
 Generated error maps to visualize differences between enhanced and ground-truth images.
 
 
-## ⏳ What is remaining
+##  What is remaining
 
 Extend the project to disease detection (Pneumonia, TB, Lung Cancer) using CNN / Transfer Learning.
 
