@@ -3,7 +3,7 @@
 
 
 
-# DignoAid is a deep learning–based medical image enhancement system that aims to improve diagnostic accuracy of X-ray images. The system uses SRCNN and VDSR models to enhance low-resolution and noisy images, providing clearer visuals that can assist in the early detection of diseases such as Tuberculosis, Pneumonia, and Lung Cancer.
+### DignoAid is a deep learning–based medical image enhancement system that aims to improve diagnostic accuracy of X-ray images. The system uses SRCNN and VDSR models to enhance low-resolution and noisy images, providing clearer visuals that can assist in the early detection of diseases such as Tuberculosis, Pneumonia, and Lung Cancer.
 
 
 
